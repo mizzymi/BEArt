@@ -46,6 +46,10 @@ header h1 {
     display: inline-block;
 }
 
+ul {
+    list-style:none;
+}
+
 /* Navigation */
 nav:not(.nav2) {
     background: var(--color-dark);
